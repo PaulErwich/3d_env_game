@@ -229,9 +229,3 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.rsp","enqueuedNodeIndex":174,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.dll (+2 others)","enqueueingNodeIndex":175}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)","enqueuedNodeIndex":179,"enqueueingNodeAnnotation":"CopyTool Library/ScriptAssemblies/Assembly-CSharp.dll","enqueueingNodeIndex":229}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp","enqueuedNodeIndex":178,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)","enqueueingNodeIndex":179}
-{"msg":"nodeRetryBuild","annotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)","index":179}
-{"msg":"noderesult","processed_node_count":226,"amount_of_nodes_ever_queued":230,"annotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)","index":179,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\1900b0aE.dag\\Assembly-CSharp.dll"}
-{"msg":"newNode","annotation":"CopyTool Library/ScriptAssemblies/Assembly-CSharp.dll","index":229}
-{"msg":"newNode","annotation":"CopyTool Library/ScriptAssemblies/Assembly-CSharp.pdb","index":230}
-{"msg":"noderesult","processed_node_count":227,"amount_of_nodes_ever_queued":230,"annotation":"CopyTool Library/ScriptAssemblies/Assembly-CSharp.dll","index":229,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Assembly-CSharp.dll"}
-{"msg":"noderesult","processed_node_count":228,"amount_of_nodes_ever_queued":230,"annotation":"CopyTool Library/ScriptAssemblies/Assembly-CSharp.pdb","index":230,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Assembly-CSharp.pdb"}
